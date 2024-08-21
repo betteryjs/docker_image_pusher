@@ -10,7 +10,7 @@
 betteryjs/checkip
 
 #公库
---platform=linux/arm64 ghcr.io/sagernet/sing-box
+--platform=linux/arm64 ghcr.io/sagernet/sing-box:v1.9.4
 --platform=linux/arm64 tinyserve/clash
 
 
